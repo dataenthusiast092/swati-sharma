@@ -1,2 +1,2 @@
-# theswati-thesharma.github.io
+# theswati-thesharma
  My Website
